@@ -1,8 +1,11 @@
 body {
+<<<<<<< HEAD
     background-image: url('imagenweb.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;  
     background-size: cover;
+=======
+>>>>>>> e4ab9e5aa22557532876aaf94b386a3e47dfc982
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
@@ -27,7 +30,11 @@ header p {
 .curso-info, .temas {
     padding: 20px;
     margin: 20px;
+<<<<<<< HEAD
     background-color: rgb(20, 200, 110);
+=======
+    background-color: white;
+>>>>>>> e4ab9e5aa22557532876aaf94b386a3e47dfc982
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
@@ -44,6 +51,7 @@ ul li::before {
     content: "→ ";
     color: #007bff;
 }
+<<<<<<< HEAD
 #miGif {
     position: fixed;
     bottom: 0;
@@ -52,3 +60,5 @@ ul li::before {
     transform: translate(-50%);
     left: 50%;
 }
+=======
+>>>>>>> e4ab9e5aa22557532876aaf94b386a3e47dfc982
